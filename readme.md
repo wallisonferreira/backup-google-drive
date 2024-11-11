@@ -4,7 +4,7 @@
 Clone o projeto para o seu ambiente local com o seguinte comando:
 
 ```bash
-git clone https://github.com/wallisonferreira/backup-google-drive
+git clone https://github.com/wallisonferreira/backup-google-drive.git
 ```
 
 ## 2. Crie o Ambiente Virtual
